@@ -8,5 +8,10 @@ github handle. Anything that should live at the root of the repo will go through
 at the root of the repo should mostly be resources and the main syllabus. Feel free to experiment with this structure however you want.
 
 ## Resources
+[Leiningen](https://github.com/emezeske/lein-cljsbuild) is for automating Clojure projects without setting your hair on fire.
+
+[Figwheel](https://github.com/bhauman/lein-figwheel) builds your ClojureScript code and hot loads it into the browser as you are coding!
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=j-kj2qwJa_E"> <img src="http://img.youtube.com/vi/j-kj2qwJa_E/0.jpg"</a>
 
 ## Syllabus
