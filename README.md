@@ -14,4 +14,7 @@ at the root of the repo should mostly be resources and the main syllabus. Feel f
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=j-kj2qwJa_E"> <img src="http://img.youtube.com/vi/j-kj2qwJa_E/0.jpg"</a>
 
+### Style Guides
+https://github.com/bbatsov/clojure-style-guide
+
 ## Syllabus
