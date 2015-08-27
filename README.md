@@ -8,6 +8,8 @@ github handle. Anything that should live at the root of the repo will go through
 at the root of the repo should mostly be resources and the main syllabus. Feel free to experiment with this structure however you want.
 
 ## Resources
+[Clojure Cheat Sheet](http://clojure.org/cheatsheet)
+
 [Leiningen](https://github.com/technomancy/leiningen) is for automating Clojure projects without setting your hair on fire.
 
 [Figwheel](https://github.com/bhauman/lein-figwheel) builds your ClojureScript code and hot loads it into the browser as you are coding!
