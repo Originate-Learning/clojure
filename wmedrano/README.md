@@ -10,7 +10,7 @@
 
 
 # My Projects
-## [Numerical Methods Homework](https://github.com/wmedrano/numerical-methods/tree/master/clj)
+## [Numerical Methods Homework](https://github.com/wmedrano/numerical-methods/)
 > #### Upon completion of the course, students will be able to:
 >
 > 1. Implement a numerical method such as the bisection method, inverse linear
